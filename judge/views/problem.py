@@ -847,18 +847,27 @@ class ProblemCreate(PermissionRequiredMixin, TitleMixin, CreateView):
     def get_initial(self):
         initial = super(ProblemCreate, self).get_initial()
         initial = initial.copy()
-        initial['description'] = misc_config(self.request)['misc_config']['description_example']
+
+        config = misc_config(self.request).get('misc_config', {})
+        initial['description'] = config.get('description_example', '')
+
         initial['memory_limit'] = 262144  # 256 MB
         initial['partial'] = True
+
         try:
             initial['group'] = ProblemGroup.objects.get(name='Uncategorized').pk
         except ProblemGroup.DoesNotExist:
-            initial['group'] = ProblemGroup.objects.order_by('id').first().pk
+            first_group = ProblemGroup.objects.order_by('id').first()
+            initial['group'] = first_group.pk if first_group else None
+
         try:
             initial['types'] = ProblemType.objects.get(name='uncategorized').pk
         except ProblemType.DoesNotExist:
-            initial['types'] = ProblemType.objects.order_by('id').first().pk
+            first_type = ProblemType.objects.order_by('id').first()
+            initial['types'] = first_type.pk if first_type else None
+
         return initial
+
 
 
 class ProblemSuggest(ProblemCreate):

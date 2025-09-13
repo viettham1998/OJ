@@ -73,9 +73,17 @@ def site(request):
     return {'site': get_current_site(request)}
 
 
-def misc_config(request):
-    return {'misc_config': request.misc_config}
+#def misc_config(request):
+#    return {'misc_config': request.misc_config}
 
+def misc_config(request):
+    return {
+        "misc_config": {
+            "discord_invite_link": "https://discord.gg/xxxx",      # thay bằng link thật nếu muốn
+            "discord_invite_shieldio": "https://img.shields.io/badge/Discord-Join-blue",
+            # thêm các trường khác nếu template cần
+        }
+    }
 
 def site_name(request):
     return {'SITE_NAME': settings.SITE_NAME,

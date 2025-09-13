@@ -1,0 +1,786 @@
+INFO 2025-09-11 03:44:08,564 daemon Exiting due to SIGINT
+INFO 2025-09-11 04:49:51,177 daemon Exiting due to SIGINT
+INFO 2025-09-11 05:03:13,934 daemon Exiting due to SIGINT
+INFO 2025-09-11 05:06:46,146 daemon Exiting due to SIGINT
+INFO 2025-09-11 05:18:39,929 daemon Exiting due to SIGINT
+INFO 2025-09-11 05:24:01,315 daemon Exiting due to SIGINT
+INFO 2025-09-11 05:36:10,381 daemon Exiting due to SIGINT
+INFO 2025-09-11 06:36:24,910 daemon Exiting due to SIGINT
+INFO 2025-09-11 06:37:46,325 daemon Exiting due to SIGINT
+INFO 2025-09-11 06:43:07,983 daemon Exiting due to SIGINT
+INFO 2025-09-11 06:43:59,130 daemon Exiting due to SIGINT
+INFO 2025-09-11 06:57:16,892 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:08:10,939 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:10:38,144 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:25:14,743 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:34:27,255 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:38:14,768 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:48:34,187 daemon Exiting due to SIGINT
+INFO 2025-09-11 07:56:14,575 daemon Exiting due to SIGINT
+INFO 2025-09-11 08:25:39,331 daemon Exiting due to SIGINT
+INFO 2025-09-11 08:35:30,320 daemon Exiting due to SIGINT
+INFO 2025-09-11 08:37:50,187 daemon Exiting due to SIGINT
+INFO 2025-09-11 09:21:43,713 daemon Exiting due to SIGINT
+INFO 2025-09-11 09:23:22,564 daemon Exiting due to SIGINT
+INFO 2025-09-11 09:23:35,662 daemon Exiting due to SIGINT
+INFO 2025-09-11 09:26:33,526 daemon Exiting due to SIGINT
+INFO 2025-09-11 09:27:11,242 daemon Exiting due to SIGINT
+INFO 2025-09-11 10:47:15,095 daemon Exiting due to SIGINT
+INFO 2025-09-11 11:03:29,224 daemon Exiting due to SIGINT
+INFO 2025-09-11 22:48:03,203 daemon Exiting due to SIGINT
+INFO 2025-09-11 22:57:48,680 daemon Exiting due to SIGINT
+INFO 2025-09-12 08:07:27,860 daemon Exiting due to SIGINT
+INFO 2025-09-12 09:41:11,515 judge_handler Judge connected from: ('127.0.0.1', 55056)
+INFO 2025-09-12 09:41:11,519 judge_handler Judge authenticated: ('127.0.0.1', 55056) (fit01)
+INFO 2025-09-12 09:41:11,519 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 09:47:23,978 judge_handler Judge connected from: ('127.0.0.1', 60644)
+INFO 2025-09-12 09:47:23,981 judge_handler Judge disconnected from: ('127.0.0.1', 60644) with name None
+INFO 2025-09-12 09:47:27,983 judge_handler Judge connected from: ('127.0.0.1', 58716)
+INFO 2025-09-12 09:47:27,986 judge_handler Judge disconnected from: ('127.0.0.1', 58716) with name None
+INFO 2025-09-12 09:47:33,989 judge_handler Judge connected from: ('127.0.0.1', 58720)
+INFO 2025-09-12 09:47:33,991 judge_handler Judge disconnected from: ('127.0.0.1', 58720) with name None
+INFO 2025-09-12 09:47:42,994 judge_handler Judge connected from: ('127.0.0.1', 57836)
+INFO 2025-09-12 09:47:42,997 judge_handler Judge disconnected from: ('127.0.0.1', 57836) with name None
+INFO 2025-09-12 09:47:56,500 judge_handler Judge connected from: ('127.0.0.1', 51846)
+INFO 2025-09-12 09:47:56,503 judge_handler Judge disconnected from: ('127.0.0.1', 51846) with name None
+INFO 2025-09-12 09:48:16,757 judge_handler Judge connected from: ('127.0.0.1', 51350)
+INFO 2025-09-12 09:48:16,760 judge_handler Judge authenticated: ('127.0.0.1', 51350) (fit02)
+INFO 2025-09-12 09:52:03,109 judge_handler Judge disconnected from: ('127.0.0.1', 51350) with name fit02
+INFO 2025-09-12 09:52:34,986 judge_handler Judge connected from: ('127.0.0.1', 58736)
+INFO 2025-09-12 09:52:34,989 judge_handler Judge authenticated: ('127.0.0.1', 58736) (fit02)
+INFO 2025-09-12 10:28:07,470 judge_list Minimum tier changed from 1 to None
+INFO 2025-09-12 10:28:07,478 judge_handler Judge disconnected from: ('127.0.0.1', 55056) with name fit01
+INFO 2025-09-12 10:28:07,482 judge_handler Judge disconnected from: ('127.0.0.1', 58736) with name fit02
+INFO 2025-09-12 10:31:44,842 judge_handler Judge connected from: ('127.0.0.1', 51562)
+INFO 2025-09-12 10:31:44,845 judge_handler Judge authenticated: ('127.0.0.1', 51562) (fit02)
+INFO 2025-09-12 10:31:44,846 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 10:33:15,519 judge_handler Judge connected from: ('127.0.0.1', 54320)
+INFO 2025-09-12 10:33:15,522 judge_handler Judge authenticated: ('127.0.0.1', 54320) (fit01)
+INFO 2025-09-12 10:33:28,993 judge_list Free judges: 2
+INFO 2025-09-12 10:33:28,994 judge_list Dispatched submission 1 to: fit01
+INFO 2025-09-12 10:33:29,002 judge_handler Submission acknowledged: 1
+INFO 2025-09-12 10:33:29,349 judge_handler fit01: Submission generated compiler messages: 1
+INFO 2025-09-12 10:33:29,352 judge_handler fit01: Grading has begun on: 1
+INFO 2025-09-12 10:33:29,367 judge_handler fit01: 10 test case(s) completed on: 1
+INFO 2025-09-12 10:33:29,373 judge_handler fit01: Grading has ended on: 1
+INFO 2025-09-12 10:33:29,374 judge_list Judge available after grading 1: fit01
+INFO 2025-09-12 10:34:45,074 judge_list Free judges: 2
+INFO 2025-09-12 10:34:45,075 judge_list Dispatched submission 2 to: fit02
+INFO 2025-09-12 10:34:45,080 judge_handler Submission acknowledged: 2
+INFO 2025-09-12 10:34:45,428 judge_handler fit02: Submission generated compiler messages: 2
+INFO 2025-09-12 10:34:45,432 judge_handler fit02: Grading has begun on: 2
+INFO 2025-09-12 10:34:45,452 judge_handler fit02: 1 test case(s) completed on: 2
+INFO 2025-09-12 10:34:45,577 judge_handler fit02: 9 test case(s) completed on: 2
+INFO 2025-09-12 10:34:45,583 judge_handler fit02: Grading has ended on: 2
+INFO 2025-09-12 10:34:45,583 judge_list Judge available after grading 2: fit02
+INFO 2025-09-12 10:38:27,566 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:38:27,568 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:38:27,568 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:38:27,569 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:39:08,035 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:39:08,037 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:39:08,037 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:39:08,038 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:39:34,089 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:39:34,091 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:39:34,091 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:39:34,092 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:39:37,090 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:39:37,091 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:39:37,092 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:39:37,093 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:49:41,495 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:49:41,497 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:49:41,497 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:49:41,498 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:49:44,496 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:49:44,497 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:49:44,498 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:49:44,499 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:49:47,497 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:49:47,499 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:49:47,499 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:49:47,500 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 10:49:50,498 judge_handler fit02: Updating problem list
+INFO 2025-09-12 10:49:50,500 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 10:49:50,501 judge_handler fit01: Updating problem list
+INFO 2025-09-12 10:49:50,502 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 11:35:19,491 daemon Exiting due to SIGINT
+INFO 2025-09-12 11:35:33,548 judge_handler Judge connected from: ('127.0.0.1', 45724)
+INFO 2025-09-12 11:35:33,549 judge_handler Judge connected from: ('127.0.0.1', 45726)
+INFO 2025-09-12 11:35:33,554 judge_handler Judge authenticated: ('127.0.0.1', 45726) (fit02)
+INFO 2025-09-12 11:35:33,554 judge_handler Judge authenticated: ('127.0.0.1', 45724) (fit01)
+INFO 2025-09-12 11:35:33,554 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 11:35:40,487 judge_handler Judge connected from: ('10.130.0.62', 42390)
+INFO 2025-09-12 11:35:42,483 base_handler Disconnecting client due to too-large message size (4294246397 bytes): ('10.130.0.62', 42390)
+INFO 2025-09-12 11:35:42,484 judge_handler Judge disconnected from: ('10.130.0.62', 42390) with name None
+INFO 2025-09-12 11:40:17,778 judge_handler Judge connected from: ('10.130.0.62', 56352)
+INFO 2025-09-12 11:40:17,781 judge_handler Judge authenticated: ('10.130.0.62', 56352) (fit03)
+INFO 2025-09-12 12:37:44,429 judge_handler Judge connected from: ('198.235.24.20', 57474)
+INFO 2025-09-12 12:37:44,429 base_handler Potentially wrong protocol (zlib error): ('198.235.24.20', 57474): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-12 12:37:44,430 judge_handler Judge disconnected from: ('198.235.24.20', 57474) with name None
+INFO 2025-09-12 12:37:44,661 judge_handler Judge connected from: ('198.235.24.20', 57490)
+INFO 2025-09-12 12:37:44,662 base_handler Potentially wrong protocol (zlib error): ('198.235.24.20', 57490): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-12 12:37:44,663 judge_handler Judge disconnected from: ('198.235.24.20', 57490) with name None
+INFO 2025-09-12 14:36:57,773 judge_handler Judge connected from: ('198.235.24.100', 59298)
+INFO 2025-09-12 14:36:57,779 base_handler Potentially wrong protocol (zlib error): ('198.235.24.100', 59298): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-12 14:36:57,779 judge_handler Judge disconnected from: ('198.235.24.100', 59298) with name None
+INFO 2025-09-12 14:36:57,990 judge_handler Judge connected from: ('198.235.24.100', 59312)
+INFO 2025-09-12 14:36:57,990 base_handler Potentially wrong protocol (zlib error): ('198.235.24.100', 59312): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-12 14:36:57,991 judge_handler Judge disconnected from: ('198.235.24.100', 59312) with name None
+INFO 2025-09-12 15:15:15,776 daemon Exiting due to SIGINT
+INFO 2025-09-12 15:16:45,273 judge_handler Judge connected from: ('127.0.0.1', 35228)
+INFO 2025-09-12 15:16:45,274 judge_handler Judge connected from: ('127.0.0.1', 35238)
+INFO 2025-09-12 15:16:45,279 judge_handler Judge authenticated: ('127.0.0.1', 35228) (fit02)
+INFO 2025-09-12 15:16:45,279 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 15:16:45,280 judge_handler Judge authenticated: ('127.0.0.1', 35238) (fit01)
+INFO 2025-09-12 15:16:49,301 judge_handler Judge connected from: ('10.130.0.62', 38526)
+INFO 2025-09-12 15:16:49,304 judge_handler Judge authenticated: ('10.130.0.62', 38526) (fit03)
+INFO 2025-09-12 15:18:32,569 daemon Exiting due to SIGINT
+INFO 2025-09-12 15:19:28,243 judge_handler Judge connected from: ('127.0.0.1', 51124)
+INFO 2025-09-12 15:19:28,244 judge_handler Judge connected from: ('127.0.0.1', 51138)
+INFO 2025-09-12 15:19:28,247 judge_handler Judge connected from: ('10.130.0.62', 36654)
+INFO 2025-09-12 15:19:28,251 judge_handler Judge authenticated: ('127.0.0.1', 51138) (fit02)
+INFO 2025-09-12 15:19:28,251 judge_handler Judge authenticated: ('127.0.0.1', 51124) (fit01)
+INFO 2025-09-12 15:19:28,251 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 15:19:28,256 judge_handler Judge authenticated: ('10.130.0.62', 36654) (fit03)
+INFO 2025-09-12 15:21:41,472 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:21:41,474 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:21:41,474 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:21:41,476 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:21:44,473 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:21:44,475 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:21:44,476 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:21:44,478 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:21:47,473 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:21:47,475 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:21:47,475 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:21:47,477 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:22:40,411 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:22:40,413 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:22:40,414 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:22:40,415 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:22:43,412 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:22:43,415 judge_handler fit02: Updated 1 problems
+INFO 2025-09-12 15:22:43,415 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:22:43,418 judge_handler fit01: Updated 1 problems
+INFO 2025-09-12 15:22:44,499 judge_handler Judge connected from: ('8.219.209.185', 34888)
+INFO 2025-09-12 15:22:44,500 base_handler Disconnecting client due to too-large message size (67174480 bytes): ('8.219.209.185', 34888)
+INFO 2025-09-12 15:22:44,500 judge_handler Judge disconnected from: ('8.219.209.185', 34888) with name None
+INFO 2025-09-12 15:22:48,619 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:22:48,620 judge_handler fit02: Updated 1 problems
+INFO 2025-09-12 15:22:48,620 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:22:48,622 judge_handler fit01: Updated 1 problems
+INFO 2025-09-12 15:22:51,620 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:22:51,623 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:22:51,623 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:22:51,627 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:23:28,287 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:23:28,289 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:23:28,290 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:23:28,292 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:23:31,288 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:23:31,305 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 15:23:31,305 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:23:31,308 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 15:23:47,471 judge_handler Judge connected from: ('8.219.209.185', 38408)
+INFO 2025-09-12 15:23:47,471 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('8.219.209.185', 38408)
+INFO 2025-09-12 15:23:47,472 judge_handler Judge disconnected from: ('8.219.209.185', 38408) with name None
+INFO 2025-09-12 15:23:55,190 judge_handler Judge connected from: ('8.219.209.185', 36398)
+INFO 2025-09-12 15:24:03,188 judge_handler Judge disconnected from: ('8.219.209.185', 36398) with name None
+INFO 2025-09-12 15:31:32,656 judge_list Specified judge fit03 is not available
+INFO 2025-09-12 15:31:32,657 judge_list Queued submission: 3
+INFO 2025-09-12 15:33:58,997 judge_list Abort request: 3
+INFO 2025-09-12 15:47:46,952 judge_list Free judges: 2
+INFO 2025-09-12 15:47:46,953 judge_list Dispatched submission 3 to: fit01
+INFO 2025-09-12 15:47:46,961 judge_handler Submission acknowledged: 3
+INFO 2025-09-12 15:47:47,374 judge_handler fit01: Submission generated compiler messages: 3
+INFO 2025-09-12 15:47:47,382 judge_handler fit01: Grading has begun on: 3
+INFO 2025-09-12 15:47:47,418 judge_handler fit01: 2 test case(s) completed on: 3
+INFO 2025-09-12 15:47:47,543 judge_handler fit01: 8 test case(s) completed on: 3
+INFO 2025-09-12 15:47:47,559 judge_handler fit01: Grading has ended on: 3
+INFO 2025-09-12 15:47:47,559 judge_list Judge available after grading 3: fit01
+INFO 2025-09-12 15:51:11,864 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:51:11,869 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 15:51:11,870 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:51:11,874 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 15:51:14,866 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:51:14,871 judge_handler fit02: Updated 4 problems
+INFO 2025-09-12 15:51:14,871 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:51:14,876 judge_handler fit01: Updated 4 problems
+INFO 2025-09-12 15:52:12,318 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:52:12,320 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 15:52:12,320 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:52:12,322 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 15:52:19,812 judge_handler fit01: Updating problem list
+INFO 2025-09-12 15:52:19,814 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 15:52:19,814 judge_handler fit02: Updating problem list
+INFO 2025-09-12 15:52:19,816 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 15:58:34,583 daemon Exiting due to SIGINT
+INFO 2025-09-12 15:58:48,794 judge_handler Judge connected from: ('127.0.0.1', 55702)
+INFO 2025-09-12 15:58:48,799 judge_handler Judge authenticated: ('127.0.0.1', 55702) (fit01)
+INFO 2025-09-12 15:58:48,799 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 15:59:44,794 judge_handler Judge connected from: ('127.0.0.1', 37300)
+INFO 2025-09-12 15:59:44,795 judge_handler Judge connected from: ('10.130.0.62', 33992)
+INFO 2025-09-12 15:59:44,801 judge_handler Judge authenticated: ('10.130.0.62', 33992) (fit03)
+INFO 2025-09-12 15:59:44,801 judge_handler Judge authenticated: ('127.0.0.1', 37300) (fit02)
+INFO 2025-09-12 16:02:14,060 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:02:14,062 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:02:14,062 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:02:14,064 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:02:17,062 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:02:17,067 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:02:17,067 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:02:17,071 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:10:40,979 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:10:40,982 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:10:40,982 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:10:40,984 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:10:43,981 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:10:43,985 judge_handler fit02: Updated 4 problems
+INFO 2025-09-12 16:10:43,986 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:10:43,990 judge_handler fit01: Updated 4 problems
+INFO 2025-09-12 16:11:08,405 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:11:08,408 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:11:08,408 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:11:08,410 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:11:22,444 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:11:22,446 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:11:22,447 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:11:22,449 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:38:45,312 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:38:45,316 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:38:45,317 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:38:45,324 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:38:48,314 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:38:48,319 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:38:48,319 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:38:48,324 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:39:59,829 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:39:59,831 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:39:59,832 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:39:59,834 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:41:15,399 judge_handler Judge connected from: ('196.251.83.136', 49958)
+INFO 2025-09-12 16:41:15,612 base_handler Disconnecting client due to too-large message size (84017154 bytes): ('196.251.83.136', 49958)
+INFO 2025-09-12 16:41:15,612 judge_handler Judge disconnected from: ('196.251.83.136', 49958) with name None
+INFO 2025-09-12 16:44:35,684 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:44:35,687 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:44:35,687 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:44:35,689 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:44:38,684 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:44:38,686 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:45:21,840 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:45:21,841 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:45:21,842 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:45:21,843 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:45:24,841 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:45:24,845 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:45:24,845 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:45:24,848 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:45:40,271 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:45:40,272 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:45:40,272 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:45:40,274 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:45:43,272 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:45:43,273 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:45:43,274 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:45:43,275 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:46:04,190 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:04,192 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:46:04,192 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:04,194 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:46:07,191 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:07,193 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 16:46:09,263 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:09,265 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 16:46:10,192 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:10,195 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:12,264 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:12,269 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:17,679 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:17,682 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:17,682 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:17,684 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:20,680 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:20,682 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:20,682 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:20,684 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:23,680 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:23,682 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:23,682 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:23,684 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:28,577 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:28,579 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:28,579 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:28,580 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:31,578 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:31,579 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:31,580 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:31,581 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:38,506 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:38,508 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:38,508 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:38,510 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:41,506 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:41,509 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:46:41,509 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:41,511 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:52,950 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:46:52,952 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:46:52,952 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:46:52,955 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:56:36,779 judge_handler Judge connected from: ('196.251.83.136', 57920)
+INFO 2025-09-12 16:56:36,940 base_handler Disconnecting client due to too-large message size (84017154 bytes): ('196.251.83.136', 57920)
+INFO 2025-09-12 16:56:36,940 judge_handler Judge disconnected from: ('196.251.83.136', 57920) with name None
+INFO 2025-09-12 16:57:15,668 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:57:15,669 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:57:15,670 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:57:15,671 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:57:19,259 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:57:19,261 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:57:19,261 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:57:19,262 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:58:40,552 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:58:40,554 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:58:40,554 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:58:40,556 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 16:58:43,554 judge_handler fit01: Updating problem list
+INFO 2025-09-12 16:58:43,556 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 16:58:43,556 judge_handler fit02: Updating problem list
+INFO 2025-09-12 16:58:43,558 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:01:20,766 judge_handler Judge connected from: ('10.130.0.62', 49210)
+INFO 2025-09-12 17:01:20,772 judge_handler Judge authenticated: ('10.130.0.62', 49210) (fit04)
+INFO 2025-09-12 17:02:11,819 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:02:11,822 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:02:11,822 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:02:11,824 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:02:14,820 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:02:14,825 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 17:02:14,825 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:02:14,829 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 17:02:23,299 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:02:23,302 judge_handler fit01: Updated 3 problems
+INFO 2025-09-12 17:02:23,302 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:02:23,304 judge_handler fit02: Updated 3 problems
+INFO 2025-09-12 17:03:04,534 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:03:04,536 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:03:04,537 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:03:04,538 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:04:57,734 judge_list Specified judge fit04 is not available
+INFO 2025-09-12 17:04:57,734 judge_list Queued submission: 4
+INFO 2025-09-12 17:05:32,169 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:05:32,174 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:05:32,175 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:05:32,179 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:05:38,892 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:05:38,894 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:05:38,894 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:05:38,897 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:05:43,479 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:05:43,481 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:05:43,481 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:05:43,484 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:05:46,480 judge_handler fit02: Updating problem list
+INFO 2025-09-12 17:05:46,482 judge_handler fit02: Updated 2 problems
+INFO 2025-09-12 17:05:46,482 judge_handler fit01: Updating problem list
+INFO 2025-09-12 17:05:46,484 judge_handler fit01: Updated 2 problems
+INFO 2025-09-12 17:06:11,347 judge_handler Judge disconnected from: ('10.130.0.62', 49210) with name fit04
+INFO 2025-09-12 17:07:23,704 judge_handler Judge connected from: ('10.130.0.62', 36450)
+INFO 2025-09-12 17:07:23,708 judge_handler Judge authenticated: ('10.130.0.62', 36450) (fit04)
+INFO 2025-09-12 17:07:23,714 judge_list Dispatched queued submission 4: fit04
+INFO 2025-09-12 17:07:23,917 judge_handler Submission acknowledged: 4
+INFO 2025-09-12 17:07:24,548 judge_handler fit04: Submission generated compiler messages: 4
+INFO 2025-09-12 17:07:24,553 judge_handler fit04: Grading has begun on: 4
+INFO 2025-09-12 17:07:24,708 judge_handler fit04: 10 test case(s) completed on: 4
+INFO 2025-09-12 17:07:24,714 judge_handler fit04: Grading has ended on: 4
+INFO 2025-09-12 17:07:24,714 judge_list Judge available after grading 4: fit04
+INFO 2025-09-12 17:21:57,427 judge_handler Judge connected from: ('79.124.58.198', 60788)
+INFO 2025-09-12 17:21:57,428 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('79.124.58.198', 60788)
+INFO 2025-09-12 17:21:57,428 judge_handler Judge disconnected from: ('79.124.58.198', 60788) with name None
+INFO 2025-09-12 17:22:34,409 judge_handler Judge connected from: ('45.82.78.104', 50042)
+INFO 2025-09-12 17:22:39,409 judge_handler Judge disconnected from: ('45.82.78.104', 50042) with name None
+INFO 2025-09-12 17:22:39,410 judge_handler Judge connected from: ('45.82.78.104', 34970)
+INFO 2025-09-12 17:22:39,411 base_handler Disconnecting client due to too-large message size (369295621 bytes): ('45.82.78.104', 34970)
+INFO 2025-09-12 17:22:39,411 judge_handler Judge disconnected from: ('45.82.78.104', 34970) with name None
+INFO 2025-09-12 17:22:39,414 judge_handler Judge connected from: ('45.82.78.104', 34984)
+INFO 2025-09-12 17:22:44,415 judge_handler Judge disconnected from: ('45.82.78.104', 34984) with name None
+INFO 2025-09-12 17:22:44,416 judge_handler Judge connected from: ('45.82.78.104', 34992)
+INFO 2025-09-12 17:22:44,416 base_handler Disconnecting client due to too-large message size (369295621 bytes): ('45.82.78.104', 34992)
+INFO 2025-09-12 17:22:44,416 judge_handler Judge disconnected from: ('45.82.78.104', 34992) with name None
+INFO 2025-09-12 17:22:44,419 judge_handler Judge connected from: ('45.82.78.104', 35002)
+INFO 2025-09-12 17:22:44,419 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('45.82.78.104', 35002)
+INFO 2025-09-12 17:22:44,420 judge_handler Judge disconnected from: ('45.82.78.104', 35002) with name None
+INFO 2025-09-12 17:22:44,422 judge_handler Judge connected from: ('45.82.78.104', 35008)
+INFO 2025-09-12 17:22:44,422 base_handler Disconnecting client due to too-large message size (369295621 bytes): ('45.82.78.104', 35008)
+INFO 2025-09-12 17:22:44,423 judge_handler Judge disconnected from: ('45.82.78.104', 35008) with name None
+INFO 2025-09-12 17:22:44,425 judge_handler Judge connected from: ('45.82.78.104', 35014)
+INFO 2025-09-12 17:22:44,425 base_handler Disconnecting client due to too-large message size (1129207886 bytes): ('45.82.78.104', 35014)
+INFO 2025-09-12 17:22:44,426 judge_handler Judge disconnected from: ('45.82.78.104', 35014) with name None
+INFO 2025-09-12 17:22:44,428 judge_handler Judge connected from: ('45.82.78.104', 35028)
+INFO 2025-09-12 17:22:49,431 judge_handler Judge connected from: ('45.82.78.104', 41838)
+INFO 2025-09-12 17:23:30,756 judge_handler Judge connected from: ('79.124.58.198', 36790)
+INFO 2025-09-12 17:23:30,757 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('79.124.58.198', 36790)
+INFO 2025-09-12 17:23:30,758 judge_handler Judge disconnected from: ('79.124.58.198', 36790) with name None
+INFO 2025-09-12 18:24:32,290 judge_handler Judge connected from: ('66.132.153.114', 51126)
+INFO 2025-09-12 18:24:32,329 base_handler Potentially wrong protocol (zlib error): ('66.132.153.114', 51126): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-12 18:24:32,331 judge_handler Judge disconnected from: ('66.132.153.114', 51126) with name None
+INFO 2025-09-12 18:24:35,960 judge_handler Judge connected from: ('66.132.153.114', 51176)
+ERROR 2025-09-12 18:24:39,214 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 149, in handle
+    tag = self.read_size()
+          ^^^^^^^^^^^^^^^^
+  File "/root/site/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-12 18:24:39,404 judge_handler Judge connected from: ('66.132.153.114', 51196)
+INFO 2025-09-12 18:24:39,534 base_handler Disconnecting client due to too-large message size (369295616 bytes): ('66.132.153.114', 51196)
+INFO 2025-09-12 18:24:39,534 judge_handler Judge disconnected from: ('66.132.153.114', 51196) with name None
+INFO 2025-09-12 18:24:40,206 judge_handler Judge connected from: ('66.132.153.114', 33100)
+INFO 2025-09-12 18:24:42,331 judge_handler Judge disconnected from: ('66.132.153.114', 51176) with name None
+INFO 2025-09-12 18:24:43,331 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('66.132.153.114', 33100)
+INFO 2025-09-12 18:24:43,332 judge_handler Judge disconnected from: ('66.132.153.114', 33100) with name None
+INFO 2025-09-12 18:24:43,714 judge_handler Judge connected from: ('66.132.153.114', 33162)
+ERROR 2025-09-12 18:24:43,820 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 149, in handle
+    tag = self.read_size()
+          ^^^^^^^^^^^^^^^^
+  File "/root/site/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-12 18:24:46,652 judge_handler Judge disconnected from: ('66.132.153.114', 33162) with name None
+INFO 2025-09-12 18:24:47,385 judge_handler Judge connected from: ('66.132.153.114', 33172)
+INFO 2025-09-12 18:24:47,388 base_handler Disconnecting client due to too-large message size (2147483688 bytes): ('66.132.153.114', 33172)
+INFO 2025-09-12 18:24:47,389 judge_handler Judge disconnected from: ('66.132.153.114', 33172) with name None
+INFO 2025-09-12 19:17:16,796 judge_handler Judge connected from: ('10.130.0.62', 40014)
+INFO 2025-09-12 19:17:16,796 judge_handler Judge connected from: ('127.0.0.1', 54322)
+INFO 2025-09-12 19:17:16,802 judge_handler Judge authenticated: ('10.130.0.62', 40014) (fit03)
+INFO 2025-09-12 19:17:16,802 judge_handler Judge authenticated: ('127.0.0.1', 54322) (fit02)
+INFO 2025-09-12 19:17:16,802 judge_list Minimum tier changed from None to 1
+INFO 2025-09-12 19:17:35,943 judge_handler Judge connected from: ('127.0.0.1', 48422)
+INFO 2025-09-12 19:17:35,947 judge_handler Judge authenticated: ('127.0.0.1', 48422) (fit01)
+INFO 2025-09-12 19:17:39,957 judge_handler Judge connected from: ('10.130.0.62', 47442)
+INFO 2025-09-12 19:17:39,962 judge_handler Judge authenticated: ('10.130.0.62', 47442) (fit04)
+INFO 2025-09-12 22:40:32,376 judge_handler Judge connected from: ('35.203.211.250', 59194)
+INFO 2025-09-12 22:40:32,376 base_handler Disconnecting client due to too-large message size (369295616 bytes): ('35.203.211.250', 59194)
+INFO 2025-09-12 22:40:32,377 judge_handler Judge disconnected from: ('35.203.211.250', 59194) with name None
+INFO 2025-09-12 22:40:32,719 judge_handler Judge connected from: ('35.203.211.250', 59204)
+INFO 2025-09-12 22:40:32,720 base_handler Disconnecting client due to too-large message size (369295616 bytes): ('35.203.211.250', 59204)
+INFO 2025-09-12 22:40:32,720 judge_handler Judge disconnected from: ('35.203.211.250', 59204) with name None
+INFO 2025-09-12 23:49:41,238 judge_handler Judge connected from: ('89.248.165.108', 60156)
+INFO 2025-09-12 23:49:41,239 base_handler Disconnecting client due to too-large message size (50331667 bytes): ('89.248.165.108', 60156)
+INFO 2025-09-12 23:49:41,239 judge_handler Judge disconnected from: ('89.248.165.108', 60156) with name None
+INFO 2025-09-13 00:22:32,197 judge_handler Judge connected from: ('147.185.133.149', 55607)
+INFO 2025-09-13 00:22:32,198 base_handler Potentially wrong protocol (zlib error): ('147.185.133.149', 55607): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 00:22:32,201 judge_handler Judge disconnected from: ('147.185.133.149', 55607) with name None
+INFO 2025-09-13 00:23:32,454 judge_handler Judge connected from: ('147.185.133.149', 58104)
+INFO 2025-09-13 00:23:32,455 base_handler Potentially wrong protocol (zlib error): ('147.185.133.149', 58104): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 00:23:32,456 judge_handler Judge disconnected from: ('147.185.133.149', 58104) with name None
+INFO 2025-09-13 00:23:33,022 judge_handler Judge connected from: ('147.185.133.149', 58106)
+INFO 2025-09-13 00:23:33,025 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('147.185.133.149', 58106)
+INFO 2025-09-13 00:23:33,025 judge_handler Judge disconnected from: ('147.185.133.149', 58106) with name None
+INFO 2025-09-13 00:23:33,529 judge_handler Judge connected from: ('147.185.133.149', 58120)
+INFO 2025-09-13 00:23:33,534 base_handler Disconnecting client due to too-large message size (1330664521 bytes): ('147.185.133.149', 58120)
+INFO 2025-09-13 00:23:33,535 judge_handler Judge disconnected from: ('147.185.133.149', 58120) with name None
+INFO 2025-09-13 00:23:34,026 judge_handler Judge connected from: ('147.185.133.149', 58126)
+INFO 2025-09-13 00:23:34,029 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('147.185.133.149', 58126)
+INFO 2025-09-13 00:23:34,029 judge_handler Judge disconnected from: ('147.185.133.149', 58126) with name None
+INFO 2025-09-13 00:23:34,513 judge_handler Judge connected from: ('147.185.133.149', 58128)
+INFO 2025-09-13 00:23:34,517 base_handler Disconnecting client due to too-large message size (1246907721 bytes): ('147.185.133.149', 58128)
+INFO 2025-09-13 00:23:34,517 judge_handler Judge disconnected from: ('147.185.133.149', 58128) with name None
+INFO 2025-09-13 00:23:34,999 judge_handler Judge connected from: ('147.185.133.149', 58136)
+INFO 2025-09-13 00:23:35,005 base_handler Disconnecting client due to too-large message size (369295360 bytes): ('147.185.133.149', 58136)
+INFO 2025-09-13 00:23:35,006 judge_handler Judge disconnected from: ('147.185.133.149', 58136) with name None
+INFO 2025-09-13 00:23:35,493 judge_handler Judge connected from: ('147.185.133.149', 58140)
+INFO 2025-09-13 00:23:35,495 base_handler Disconnecting client due to too-large message size (369295616 bytes): ('147.185.133.149', 58140)
+INFO 2025-09-13 00:23:35,496 judge_handler Judge disconnected from: ('147.185.133.149', 58140) with name None
+INFO 2025-09-13 00:23:35,988 judge_handler Judge connected from: ('147.185.133.149', 58160)
+INFO 2025-09-13 00:23:35,990 base_handler Disconnecting client due to too-large message size (2157838595 bytes): ('147.185.133.149', 58160)
+INFO 2025-09-13 00:23:35,990 judge_handler Judge disconnected from: ('147.185.133.149', 58160) with name None
+INFO 2025-09-13 00:23:36,470 judge_handler Judge connected from: ('147.185.133.149', 58166)
+INFO 2025-09-13 00:23:36,471 base_handler Disconnecting client due to too-large message size (369295360 bytes): ('147.185.133.149', 58166)
+INFO 2025-09-13 00:23:36,471 judge_handler Judge disconnected from: ('147.185.133.149', 58166) with name None
+INFO 2025-09-13 00:23:36,947 judge_handler Judge connected from: ('147.185.133.149', 58180)
+ERROR 2025-09-13 00:23:46,946 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 149, in handle
+    tag = self.read_size()
+          ^^^^^^^^^^^^^^^^
+  File "/root/site/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 00:23:47,239 judge_handler Judge connected from: ('147.185.133.149', 62746)
+INFO 2025-09-13 00:23:47,239 base_handler Disconnecting client due to too-large message size (218762506 bytes): ('147.185.133.149', 62746)
+INFO 2025-09-13 00:23:47,240 judge_handler Judge disconnected from: ('147.185.133.149', 62746) with name None
+INFO 2025-09-13 00:23:47,721 judge_handler Judge connected from: ('147.185.133.149', 62760)
+INFO 2025-09-13 00:23:47,722 base_handler Disconnecting client due to too-large message size (1330664521 bytes): ('147.185.133.149', 62760)
+INFO 2025-09-13 00:23:47,722 judge_handler Judge disconnected from: ('147.185.133.149', 62760) with name None
+INFO 2025-09-13 00:23:48,194 judge_handler Judge connected from: ('147.185.133.149', 62772)
+INFO 2025-09-13 00:23:48,195 base_handler Disconnecting client due to too-large message size (2147483688 bytes): ('147.185.133.149', 62772)
+INFO 2025-09-13 00:23:48,195 judge_handler Judge disconnected from: ('147.185.133.149', 62772) with name None
+INFO 2025-09-13 00:23:48,665 judge_handler Judge connected from: ('147.185.133.149', 62784)
+INFO 2025-09-13 00:23:49,832 judge_handler Judge disconnected from: ('147.185.133.149', 58180) with name None
+ERROR 2025-09-13 00:23:58,667 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 86, in read_sized_packet
+    data = self.request.recv(remainder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 00:23:58,959 judge_handler Judge connected from: ('147.185.133.149', 57500)
+INFO 2025-09-13 00:24:01,710 judge_handler Judge disconnected from: ('147.185.133.149', 62784) with name None
+ERROR 2025-09-13 00:24:08,959 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 86, in read_sized_packet
+    data = self.request.recv(remainder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 00:24:09,242 judge_handler Judge connected from: ('147.185.133.149', 58786)
+INFO 2025-09-13 00:24:09,243 base_handler Disconnecting client due to too-large message size (1162366031 bytes): ('147.185.133.149', 58786)
+INFO 2025-09-13 00:24:09,244 judge_handler Judge disconnected from: ('147.185.133.149', 58786) with name None
+INFO 2025-09-13 00:24:09,714 judge_handler Judge connected from: ('147.185.133.149', 58802)
+INFO 2025-09-13 00:24:09,715 base_handler Disconnecting client due to too-large message size (1212501072 bytes): ('147.185.133.149', 58802)
+INFO 2025-09-13 00:24:09,715 judge_handler Judge disconnected from: ('147.185.133.149', 58802) with name None
+INFO 2025-09-13 00:24:10,187 judge_handler Judge connected from: ('147.185.133.149', 58812)
+INFO 2025-09-13 00:24:10,188 base_handler Disconnecting client due to too-large message size (50331690 bytes): ('147.185.133.149', 58812)
+INFO 2025-09-13 00:24:10,188 judge_handler Judge disconnected from: ('147.185.133.149', 58812) with name None
+INFO 2025-09-13 00:24:10,663 judge_handler Judge connected from: ('147.185.133.149', 58828)
+INFO 2025-09-13 00:24:10,664 base_handler Disconnecting client due to too-large message size (50331690 bytes): ('147.185.133.149', 58828)
+INFO 2025-09-13 00:24:10,664 judge_handler Judge disconnected from: ('147.185.133.149', 58828) with name None
+INFO 2025-09-13 00:24:11,138 judge_handler Judge connected from: ('147.185.133.149', 64116)
+INFO 2025-09-13 00:24:11,139 base_handler Potentially wrong protocol (zlib error): ('147.185.133.149', 64116): b'\x00\x00\x00q'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 00:24:11,140 judge_handler Judge disconnected from: ('147.185.133.149', 64116) with name None
+INFO 2025-09-13 00:24:11,690 judge_handler Judge disconnected from: ('147.185.133.149', 57500) with name None
+INFO 2025-09-13 00:39:41,816 judge_handler Judge connected from: ('20.127.201.247', 56942)
+INFO 2025-09-13 00:39:41,816 base_handler Disconnecting client due to too-large message size (1296518222 bytes): ('20.127.201.247', 56942)
+INFO 2025-09-13 00:39:41,817 judge_handler Judge disconnected from: ('20.127.201.247', 56942) with name None
+INFO 2025-09-13 00:50:34,106 daemon Exiting due to SIGINT
+INFO 2025-09-13 00:51:29,697 judge_handler Judge connected from: ('127.0.0.1', 48180)
+INFO 2025-09-13 00:51:29,703 judge_handler Judge authenticated: ('127.0.0.1', 48180) (fit01)
+INFO 2025-09-13 00:51:29,703 judge_handler Judge connected from: ('10.130.0.62', 52280)
+INFO 2025-09-13 00:51:29,704 judge_list Minimum tier changed from None to 1
+INFO 2025-09-13 00:51:29,713 judge_handler Judge authenticated: ('10.130.0.62', 52280) (fit04)
+INFO 2025-09-13 00:51:44,134 judge_handler Judge connected from: ('127.0.0.1', 57288)
+INFO 2025-09-13 00:51:44,136 judge_handler Judge connected from: ('10.130.0.62', 39552)
+INFO 2025-09-13 00:51:44,140 judge_handler Judge authenticated: ('127.0.0.1', 57288) (fit02)
+INFO 2025-09-13 00:51:44,145 judge_handler Judge authenticated: ('10.130.0.62', 39552) (fit03)
+INFO 2025-09-13 00:58:18,222 judge_handler Judge connected from: ('162.216.149.30', 50799)
+INFO 2025-09-13 00:58:18,223 base_handler Potentially wrong protocol (zlib error): ('162.216.149.30', 50799): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 00:58:18,224 judge_handler Judge disconnected from: ('162.216.149.30', 50799) with name None
+INFO 2025-09-13 00:59:28,473 judge_handler Judge connected from: ('162.216.149.30', 65098)
+INFO 2025-09-13 00:59:28,474 base_handler Potentially wrong protocol (zlib error): ('162.216.149.30', 65098): b'\x00\x00\x00\x1d'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 00:59:28,475 judge_handler Judge disconnected from: ('162.216.149.30', 65098) with name None
+INFO 2025-09-13 00:59:29,011 judge_handler Judge connected from: ('162.216.149.30', 60558)
+INFO 2025-09-13 00:59:29,012 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('162.216.149.30', 60558)
+INFO 2025-09-13 00:59:29,012 judge_handler Judge disconnected from: ('162.216.149.30', 60558) with name None
+INFO 2025-09-13 00:59:29,547 judge_handler Judge connected from: ('162.216.149.30', 60584)
+INFO 2025-09-13 00:59:29,547 base_handler Disconnecting client due to too-large message size (1330664521 bytes): ('162.216.149.30', 60584)
+INFO 2025-09-13 00:59:29,548 judge_handler Judge disconnected from: ('162.216.149.30', 60584) with name None
+INFO 2025-09-13 00:59:30,083 judge_handler Judge connected from: ('162.216.149.30', 60598)
+INFO 2025-09-13 00:59:30,083 base_handler Disconnecting client due to too-large message size (1195725856 bytes): ('162.216.149.30', 60598)
+INFO 2025-09-13 00:59:30,084 judge_handler Judge disconnected from: ('162.216.149.30', 60598) with name None
+INFO 2025-09-13 00:59:30,623 judge_handler Judge connected from: ('162.216.149.30', 60608)
+INFO 2025-09-13 00:59:30,624 base_handler Disconnecting client due to too-large message size (1246907721 bytes): ('162.216.149.30', 60608)
+INFO 2025-09-13 00:59:30,624 judge_handler Judge disconnected from: ('162.216.149.30', 60608) with name None
+INFO 2025-09-13 00:59:31,157 judge_handler Judge connected from: ('162.216.149.30', 60624)
+INFO 2025-09-13 00:59:31,157 base_handler Disconnecting client due to too-large message size (369295360 bytes): ('162.216.149.30', 60624)
+INFO 2025-09-13 00:59:31,158 judge_handler Judge disconnected from: ('162.216.149.30', 60624) with name None
+INFO 2025-09-13 00:59:31,691 judge_handler Judge connected from: ('162.216.149.30', 60630)
+INFO 2025-09-13 00:59:31,692 base_handler Disconnecting client due to too-large message size (369295616 bytes): ('162.216.149.30', 60630)
+INFO 2025-09-13 00:59:31,692 judge_handler Judge disconnected from: ('162.216.149.30', 60630) with name None
+INFO 2025-09-13 00:59:32,226 judge_handler Judge connected from: ('162.216.149.30', 60636)
+INFO 2025-09-13 00:59:32,227 base_handler Disconnecting client due to too-large message size (2157838595 bytes): ('162.216.149.30', 60636)
+INFO 2025-09-13 00:59:32,227 judge_handler Judge disconnected from: ('162.216.149.30', 60636) with name None
+INFO 2025-09-13 00:59:32,763 judge_handler Judge connected from: ('162.216.149.30', 60650)
+INFO 2025-09-13 00:59:32,764 base_handler Disconnecting client due to too-large message size (369295360 bytes): ('162.216.149.30', 60650)
+INFO 2025-09-13 00:59:32,764 judge_handler Judge disconnected from: ('162.216.149.30', 60650) with name None
+INFO 2025-09-13 00:59:33,298 judge_handler Judge connected from: ('162.216.149.30', 60664)
+ERROR 2025-09-13 00:59:43,298 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 149, in handle
+    tag = self.read_size()
+          ^^^^^^^^^^^^^^^^
+  File "/root/site/judge/bridge/base_handler.py", line 110, in read_size
+    recv = self.request.recv(size_pack.size - len(buffer))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 00:59:43,616 judge_handler Judge connected from: ('162.216.149.30', 65400)
+INFO 2025-09-13 00:59:43,617 base_handler Disconnecting client due to too-large message size (218762506 bytes): ('162.216.149.30', 65400)
+INFO 2025-09-13 00:59:43,617 judge_handler Judge disconnected from: ('162.216.149.30', 65400) with name None
+INFO 2025-09-13 00:59:44,152 judge_handler Judge connected from: ('162.216.149.30', 65412)
+INFO 2025-09-13 00:59:44,153 base_handler Disconnecting client due to too-large message size (1330664521 bytes): ('162.216.149.30', 65412)
+INFO 2025-09-13 00:59:44,153 judge_handler Judge disconnected from: ('162.216.149.30', 65412) with name None
+INFO 2025-09-13 00:59:44,693 judge_handler Judge connected from: ('162.216.149.30', 65418)
+INFO 2025-09-13 00:59:44,694 base_handler Disconnecting client due to too-large message size (2147483688 bytes): ('162.216.149.30', 65418)
+INFO 2025-09-13 00:59:44,694 judge_handler Judge disconnected from: ('162.216.149.30', 65418) with name None
+INFO 2025-09-13 00:59:45,228 judge_handler Judge connected from: ('162.216.149.30', 65422)
+INFO 2025-09-13 00:59:46,074 judge_handler Judge disconnected from: ('162.216.149.30', 60664) with name None
+ERROR 2025-09-13 00:59:55,229 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 86, in read_sized_packet
+    data = self.request.recv(remainder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 00:59:55,546 judge_handler Judge connected from: ('162.216.149.30', 59908)
+INFO 2025-09-13 00:59:58,015 judge_handler Judge disconnected from: ('162.216.149.30', 65422) with name None
+ERROR 2025-09-13 01:00:05,546 base_handler Error in base packet handling
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 44, in __call__
+    handler.handle()
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 86, in read_sized_packet
+    data = self.request.recv(remainder)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO 2025-09-13 01:00:05,865 judge_handler Judge connected from: ('162.216.149.30', 60728)
+INFO 2025-09-13 01:00:05,866 base_handler Disconnecting client due to too-large message size (1162366031 bytes): ('162.216.149.30', 60728)
+INFO 2025-09-13 01:00:05,866 judge_handler Judge disconnected from: ('162.216.149.30', 60728) with name None
+INFO 2025-09-13 01:00:06,401 judge_handler Judge connected from: ('162.216.149.30', 60738)
+INFO 2025-09-13 01:00:06,402 base_handler Disconnecting client due to too-large message size (1212501072 bytes): ('162.216.149.30', 60738)
+INFO 2025-09-13 01:00:06,402 judge_handler Judge disconnected from: ('162.216.149.30', 60738) with name None
+INFO 2025-09-13 01:00:06,934 judge_handler Judge connected from: ('162.216.149.30', 60742)
+INFO 2025-09-13 01:00:06,935 base_handler Disconnecting client due to too-large message size (50331690 bytes): ('162.216.149.30', 60742)
+INFO 2025-09-13 01:00:06,935 judge_handler Judge disconnected from: ('162.216.149.30', 60742) with name None
+INFO 2025-09-13 01:00:07,472 judge_handler Judge connected from: ('162.216.149.30', 60754)
+INFO 2025-09-13 01:00:07,473 base_handler Disconnecting client due to too-large message size (50331690 bytes): ('162.216.149.30', 60754)
+INFO 2025-09-13 01:00:07,473 judge_handler Judge disconnected from: ('162.216.149.30', 60754) with name None
+INFO 2025-09-13 01:00:08,007 judge_handler Judge connected from: ('162.216.149.30', 61160)
+INFO 2025-09-13 01:00:08,008 base_handler Potentially wrong protocol (zlib error): ('162.216.149.30', 61160): b'\x00\x00\x00q'
+Traceback (most recent call last):
+  File "/root/site/judge/bridge/base_handler.py", line 169, in handle
+    self.read_sized_packet(tag)
+  File "/root/site/judge/bridge/base_handler.py", line 89, in read_sized_packet
+    self._on_packet(b''.join(buffer))
+  File "/root/site/judge/bridge/base_handler.py", line 128, in _on_packet
+    decompressed = zlib.decompress(data).decode('utf-8')
+                   ^^^^^^^^^^^^^^^^^^^^^
+zlib.error: Error -3 while decompressing data: incorrect header check
+INFO 2025-09-13 01:00:08,009 judge_handler Judge disconnected from: ('162.216.149.30', 61160) with name None
+INFO 2025-09-13 01:00:08,603 judge_handler Judge disconnected from: ('162.216.149.30', 59908) with name None
+INFO 2025-09-13 01:09:00,540 daemon Exiting due to SIGINT
+INFO 2025-09-13 01:10:10,602 judge_handler Judge connected from: ('127.0.0.1', 40042)
+INFO 2025-09-13 01:10:10,603 judge_handler Judge connected from: ('127.0.0.1', 40052)
+INFO 2025-09-13 01:10:10,605 judge_handler Judge connected from: ('10.130.0.62', 40280)
+INFO 2025-09-13 01:10:10,607 judge_handler Judge connected from: ('10.130.0.62', 40296)
+INFO 2025-09-13 01:10:10,612 judge_handler Judge authenticated: ('127.0.0.1', 40042) (fit01)
+INFO 2025-09-13 01:10:10,613 judge_list Minimum tier changed from None to 1
+INFO 2025-09-13 01:10:10,615 judge_handler Judge authenticated: ('127.0.0.1', 40052) (fit02)
+INFO 2025-09-13 01:10:10,615 judge_handler Judge authenticated: ('10.130.0.62', 40280) (fit03)
+INFO 2025-09-13 01:10:10,630 judge_handler Judge authenticated: ('10.130.0.62', 40296) (fit04)
+INFO 2025-09-13 01:10:58,865 judge_handler Judge connected from: ('176.65.149.182', 38236)
+INFO 2025-09-13 01:10:59,766 base_handler Disconnecting client due to too-large message size (1129270862 bytes): ('176.65.149.182', 38236)
+INFO 2025-09-13 01:10:59,766 judge_handler Judge disconnected from: ('176.65.149.182', 38236) with name None
